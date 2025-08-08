@@ -4,17 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a50c8da2-51ab-4aa7-a39b-9ba5fdb59cb7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/SolutionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1.TwoSum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../1.TwoSum/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../9.PalindromeNumber/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../9.PalindromeNumber/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a50c8da2-51ab-4aa7-a39b-9ba5fdb59cb7" name="Changes" comment="13. Roman to Integer">
+      <change afterPath="$PROJECT_DIR$/../14.LongestCommonPrefix/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14.LongestCommonPrefix/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14.LongestCommonPrefix/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14.LongestCommonPrefix/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14.LongestCommonPrefix/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14.LongestCommonPrefix/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14.LongestCommonPrefix/src/main/java/org/example/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14.LongestCommonPrefix/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14.LongestCommonPrefix/src/test/java/org/example/SolutionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,42 +31,42 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "VitaliiChekalenko"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;VitaliiChekalenko&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/VitaliiChekalenko/LeetCode.git",
-    "accountId": "439606ff-cbb7-4351-9e42-67da0fa3d950"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/VitaliiChekalenko/LeetCode.git&quot;,
+    &quot;accountId&quot;: &quot;439606ff-cbb7-4351-9e42-67da0fa3d950&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="30vbhu3FtMyO4lpwwqg6gtNUddk" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "JUnit.SolutionTest.executor": "Debug",
-    "JUnit.SolutionTest.testRomePositive.executor": "Debug",
-    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit3",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3": "junit.framework.TestCase",
-    "git-widget-placeholder": "master",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.SolutionTest.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.SolutionTest.testRomePositive.executor&quot;: &quot;Debug&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit3&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3&quot;: &quot;junit.framework.TestCase&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="junit.framework.TestCase" />
@@ -122,7 +122,20 @@
       <option name="presentableId" value="Default" />
       <updated>1754511125137</updated>
     </task>
+    <task id="LOCAL-00001" summary="13. Roman to Integer">
+      <option name="closed" value="true" />
+      <created>1754559376953</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1754559376953</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="13. Roman to Integer" />
+    <option name="LAST_COMMIT_MESSAGE" value="13. Roman to Integer" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
