@@ -2,12 +2,12 @@ package org.example;
 
 class Solution {
     public boolean isPerfectSquare(int num) {
-        int left = 1;
-        int right = num;
+        long left = 1;
+        long right = num;
 
         while (left <= right) {
-            int mid = (left + right) / 2;
-            int squared = mid * mid;
+            long mid = left + (right - left) / 2;
+            long squared = mid * mid;
             if (squared == num) {
                 return true;
             } else if (squared < num) {
