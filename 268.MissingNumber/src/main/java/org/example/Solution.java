@@ -1,21 +1,11 @@
 package org.example;
 
-import java.util.Arrays;
-
 class Solution {
     public int missingNumber(int[] nums) {
-        Arrays.sort(nums);
-        if (nums[0] != 0) return 0;
-
-        for (int i = 0, j = nums.length - 1; i < nums.length - 1 && j > i; i++, j--) {
-            if (nums[i] + 1 != nums[i + 1]) {
-                return nums[i] + 1;
-            }
-            if (nums[j] - 1!= nums[j - 1] ) {
-                return nums[j] - 1;
-            }
-        }
-
-        return nums[nums.length - 1] + 1;
+        int n = nums.length;
+        boolean[] seen = new boolean[n + 1];
+        for (int x : nums) seen[x] = true;
+        for (int i = 0; i <= n; i++) if (!seen[i]) return i;
+        return -1;
     }
 }
