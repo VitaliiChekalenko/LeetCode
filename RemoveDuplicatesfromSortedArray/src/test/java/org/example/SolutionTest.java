@@ -7,7 +7,7 @@ import static org.junit.jupiter.api.Assertions.*;
 class SolutionTest {
 
     @Test
-    void testAr() {
+    void testRemoveDuplicates() {
         Solution solution = new Solution();
 
         assertEquals(2, solution.removeDuplicates(new int[] {1,1,2}));
