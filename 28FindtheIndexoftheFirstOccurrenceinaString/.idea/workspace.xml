@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9049bec-7747-4bc8-8c68-16c269b665ca" name="Changes" comment=" Longest Palindromic Substring" />
+    <list default="true" id="097270ff-4cca-49fe-8d21-0912bad3390e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/SolutionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.LongestPalindromicSubstring/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../5.LongestPalindromicSubstring/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,16 +41,16 @@
   }
 }]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
+  "associatedIndex": 4
 }]]></component>
-  <component name="ProjectId" id="31bZl2l3LbpAHZ4ShnZS08JynHN" />
+  <component name="ProjectId" id="31beib6JLKz1Uhghuai1X4KDfGk" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "JUnit.SolutionTest.testLongestPalindrome.executor": "Debug",
+    "JUnit.SolutionTest.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -61,8 +69,8 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="SolutionTest.testLongestPalindrome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="5.LongestPalindromicSubstring" />
+    <configuration name="SolutionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="28FindtheIndexoftheFirstOccurrenceinaString" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.*" />
@@ -71,40 +79,26 @@
       </extension>
       <option name="PACKAGE_NAME" value="org.example" />
       <option name="MAIN_CLASS_NAME" value="org.example.SolutionTest" />
-      <option name="METHOD_NAME" value="testLongestPalindrome" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SolutionTest.testLongestPalindrome" />
+        <item itemvalue="JUnit.SolutionTest" />
       </list>
     </recent_temporary>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f9049bec-7747-4bc8-8c68-16c269b665ca" name="Changes" comment="" />
-      <created>1755794885557</created>
+      <changelist id="097270ff-4cca-49fe-8d21-0912bad3390e" name="Changes" comment="" />
+      <created>1755797329574</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1755794885557</updated>
+      <updated>1755797329574</updated>
     </task>
-    <task id="LOCAL-00001" summary=" Longest Palindromic Substring">
-      <option name="closed" value="true" />
-      <created>1755797211633</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1755797211633</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value=" Longest Palindromic Substring" />
-    <option name="LAST_COMMIT_MESSAGE" value=" Longest Palindromic Substring" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -118,7 +112,7 @@
     </breakpoint-manager>
     <watches-manager>
       <configuration name="JUnit">
-        <watch expression="s.substring(i,j)" language="JAVA" />
+        <watch expression="haystack.substring(right - needle.length(), right)" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>
