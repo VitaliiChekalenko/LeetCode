@@ -2,19 +2,14 @@ package org.example;
 
 class Solution {
     public boolean hasPathSum(TreeNode root, int targetSum) {
+        if (root == null) return false;
 
-        int sum = 0;
-        TreeNode firstNode = root;
-        TreeNode currentNode = new TreeNode();
-
-        while (sum != targetSum || currentNode != firstNode ) {
-            if (firstNode.left != null) {
-                sum = firstNode.val + firstNode.left.val;
-                firstNode = firstNode.left;
-            } else {
-                firstNode =
-            }
+        // Якщо це листок — перевіряємо суму
+        if (root.left == null && root.right == null) {
+            return targetSum == root.val;
         }
-        
+
+        int newTarget = targetSum - root.val;
+        return hasPathSum(root.left, newTarget) || hasPathSum(root.right, newTarget);
     }
 }
