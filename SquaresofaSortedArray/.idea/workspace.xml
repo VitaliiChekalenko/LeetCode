@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36e72bdf-6908-4f25-9924-29104e6d35be" name="Changes" comment="Find All Numbers Disappeared in an Array" />
+    <list default="true" id="2c6a8efc-a779-4cad-b8cf-4059d7f9876f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/SolutionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FindAllNumbersDisappearedinanArray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FindAllNumbersDisappearedinanArray/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,16 +40,16 @@
   }
 }]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
+  "associatedIndex": 0
 }]]></component>
-  <component name="ProjectId" id="31agOCGBvhwpmqXbLMTGivgmszt" />
+  <component name="ProjectId" id="31als3Ul5qv9YkvYLZBOFnh3LrQ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "JUnit.SolutionTest.test.executor": "Run",
+    "JUnit.SolutionTest.testSorted.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -61,8 +68,8 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="SolutionTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="FindAllNumbersDisappearedinanArray" />
+    <configuration name="SolutionTest.testSorted" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SquaresofaSortedArray" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.*" />
@@ -71,7 +78,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="org.example" />
       <option name="MAIN_CLASS_NAME" value="org.example.SolutionTest" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="METHOD_NAME" value="testSorted" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,42 +86,18 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SolutionTest.test" />
+        <item itemvalue="JUnit.SolutionTest.testSorted" />
       </list>
     </recent_temporary>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="36e72bdf-6908-4f25-9924-29104e6d35be" name="Changes" comment="" />
-      <created>1755767564094</created>
+      <changelist id="2c6a8efc-a779-4cad-b8cf-4059d7f9876f" name="Changes" comment="" />
+      <created>1755770268873</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1755767564094</updated>
+      <updated>1755770268873</updated>
     </task>
-    <task id="LOCAL-00001" summary="Find All Numbers Disappeared in an Array">
-      <option name="closed" value="true" />
-      <created>1755770243935</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1755770243935</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Find All Numbers Disappeared in an Array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Find All Numbers Disappeared in an Array" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Solution.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

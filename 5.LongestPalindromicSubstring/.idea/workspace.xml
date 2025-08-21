@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f9049bec-7747-4bc8-8c68-16c269b665ca" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../21MergeTwoSortedLists/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../21MergeTwoSortedLists/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../21MergeTwoSortedLists/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../21MergeTwoSortedLists/src/main/java/org/example/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../21MergeTwoSortedLists/src/main/java/org/example/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../21MergeTwoSortedLists/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SquaresofaSortedArray/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SquaresofaSortedArray/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SquaresofaSortedArray/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SquaresofaSortedArray/src/main/java/org/example/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SquaresofaSortedArray/src/test/java/org/example/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../liveCodeing/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../liveCodeing/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../liveCodeing/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../liveCodeing/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../liveCodeing/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FindAllNumbersDisappearedinanArray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FindAllNumbersDisappearedinanArray/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "VitaliiChekalenko"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/VitaliiChekalenko/LeetCode.git",
+    "accountId": "439606ff-cbb7-4351-9e42-67da0fa3d950"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="31bZl2l3LbpAHZ4ShnZS08JynHN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.SolutionTest.testLongestPalindrome.executor": "Debug",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.example" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SolutionTest.testLongestPalindrome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="5.LongestPalindromicSubstring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.SolutionTest" />
+      <option name="METHOD_NAME" value="testLongestPalindrome" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SolutionTest.testLongestPalindrome" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9049bec-7747-4bc8-8c68-16c269b665ca" name="Changes" comment="" />
+      <created>1755794885557</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1755794885557</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Solution.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="s.substring(i,j)" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
