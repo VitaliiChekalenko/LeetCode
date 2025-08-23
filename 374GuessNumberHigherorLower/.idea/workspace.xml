@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c16728e-9118-4359-b65a-289ed97a238e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/GuessGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+    <list default="true" id="7c16728e-9118-4359-b65a-289ed97a238e" name="Changes" comment="374. Guess Number Higher or Lower">
+      <change beforePath="$PROJECT_DIR$/../RemoveElement/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RemoveElement/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +59,19 @@
       <option name="presentableId" value="Default" />
       <updated>1755952390087</updated>
     </task>
+    <task id="LOCAL-00001" summary="374. Guess Number Higher or Lower">
+      <option name="closed" value="true" />
+      <created>1755953724643</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1755953724643</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="374. Guess Number Higher or Lower" />
+    <option name="LAST_COMMIT_MESSAGE" value="374. Guess Number Higher or Lower" />
   </component>
 </project>
