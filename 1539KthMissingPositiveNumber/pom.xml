@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.example</groupId>
-  <artifactId>744FindSmallestLetterGreaterThanTarget</artifactId>
+  <artifactId>1539KthMissingPositiveNumber</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>744FindSmallestLetterGreaterThanTarget</name>
+  <name>1539KthMissingPositiveNumber</name>
   <url>http://maven.apache.org</url>
 
   <properties>
