@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a400cbd-d6c8-4800-9792-bbe72e51f4a0" name="Changes" comment="1539. Kth Missing Positive Number" />
+    <list default="true" id="8036eea1-c7db-415b-b854-92630877b3c0" name="Changes" comment="1608. Special Array With X Elements Greater Than or Equal X">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/SolutionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1539KthMissingPositiveNumber/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../1539KthMissingPositiveNumber/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,16 +43,16 @@
   }
 }]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
+  "associatedIndex": 2
 }]]></component>
-  <component name="ProjectId" id="31jCPAsGy2i3Y3bd1bo6zXc5TcL" />
+  <component name="ProjectId" id="31jFUWvw7cz6JnSr556HqXRin7G" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "JUnit.SolutionTest.executor": "Run",
+    "JUnit.SolutionTest.executor": "Debug",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -62,7 +72,7 @@
   </component>
   <component name="RunManager">
     <configuration name="SolutionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="1539KthMissingPositiveNumber" />
+      <module name="1608SpecialArrayWithXElementsGreaterThanorEqualX" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.*" />
@@ -84,34 +94,21 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0a400cbd-d6c8-4800-9792-bbe72e51f4a0" name="Changes" comment="" />
-      <created>1756028069222</created>
+      <changelist id="8036eea1-c7db-415b-b854-92630877b3c0" name="Changes" comment="" />
+      <created>1756029591611</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1756028069222</updated>
+      <updated>1756029591611</updated>
     </task>
-    <task id="LOCAL-00001" summary="1539. Kth Missing Positive Number">
-      <option name="closed" value="true" />
-      <created>1756029392515</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1756029392515</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="1539. Kth Missing Positive Number" />
-    <option name="LAST_COMMIT_MESSAGE" value="1539. Kth Missing Positive Number" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/org/example/Solution.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="3" />
+          <line>6</line>
+          <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
